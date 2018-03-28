@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>#import("title")</title>
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <div class="row column container-padded">
+    <h1>Shopping List App</h1>  
+    #import("content")
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

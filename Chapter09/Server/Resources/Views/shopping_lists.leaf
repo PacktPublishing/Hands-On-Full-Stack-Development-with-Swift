@@ -1,0 +1,10 @@
+#extend("base")
+
+#export("title") { Shopping List }
+
+#export("content") {
+  #loop(shopping_lists, "shopping_list") {
+    #extend("shopping_list")
+  }
+  <a class="add-shopping-list">+ Create New Shopping List</a>
+}

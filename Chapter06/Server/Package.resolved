@@ -1,0 +1,259 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BCrypt",
+        "repositoryURL": "https://github.com/vapor/bcrypt.git",
+        "state": {
+          "branch": null,
+          "revision": "3ee4aca16ba6ebfb1ad48cc5fd4dfb163c6d6be8",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "BSON",
+        "repositoryURL": "https://github.com/OpenKitten/BSON.git",
+        "state": {
+          "branch": null,
+          "revision": "eb4ff0def92e8a74aa44f9f927ebae5bc3a05f57",
+          "version": "5.1.5"
+        }
+      },
+      {
+        "package": "Bits",
+        "repositoryURL": "https://github.com/vapor/bits.git",
+        "state": {
+          "branch": null,
+          "revision": "c32f5e6ae2007dccd21a92b7e33eba842dd80d2f",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "CTLS",
+        "repositoryURL": "https://github.com/vapor/ctls.git",
+        "state": {
+          "branch": null,
+          "revision": "fba1297f4986a4dac8b02f7ac4e84a77fd492e4c",
+          "version": "1.1.3"
+        }
+      },
+      {
+        "package": "Cheetah",
+        "repositoryURL": "https://github.com/OpenKitten/Cheetah.git",
+        "state": {
+          "branch": null,
+          "revision": "b7e3bf3de9fe487cd5f07ac67d57d8bf730cb0c7",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "Console",
+        "repositoryURL": "https://github.com/vapor/console.git",
+        "state": {
+          "branch": null,
+          "revision": "78d27da2838aa2fb0354037e71a589583d166b41",
+          "version": "2.3.1"
+        }
+      },
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/vapor/core.git",
+        "state": {
+          "branch": null,
+          "revision": "f9f3a585ab0ea5764b46d7a36d9c0d9d508b9c63",
+          "version": "2.2.0"
+        }
+      },
+      {
+        "package": "Crypto",
+        "repositoryURL": "https://github.com/vapor/crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "946edc6642d6825982a2f52a268a8ba9bd520a3d",
+          "version": "2.1.2"
+        }
+      },
+      {
+        "package": "CryptoKitten",
+        "repositoryURL": "https://github.com/OpenKitten/CryptoKitten.git",
+        "state": {
+          "branch": null,
+          "revision": "bf7a4d6dbd6f4bbd96ae620101239446d2cdd3f9",
+          "version": "0.2.3"
+        }
+      },
+      {
+        "package": "Debugging",
+        "repositoryURL": "https://github.com/vapor/debugging.git",
+        "state": {
+          "branch": null,
+          "revision": "fc5a27d6eb236141dc24e5f14eedaa2e035ae7b3",
+          "version": "1.1.1"
+        }
+      },
+      {
+        "package": "Engine",
+        "repositoryURL": "https://github.com/vapor/engine.git",
+        "state": {
+          "branch": null,
+          "revision": "0ecc50fa8c7bc03ec9af78ca37e3b57f192bd258",
+          "version": "2.2.4"
+        }
+      },
+      {
+        "package": "Fluent",
+        "repositoryURL": "https://github.com/vapor/fluent.git",
+        "state": {
+          "branch": null,
+          "revision": "84b0d96a61b66168f2a61ec788581e0a2ab6f9c3",
+          "version": "2.5.1"
+        }
+      },
+      {
+        "package": "FluentProvider",
+        "repositoryURL": "https://github.com/vapor/fluent-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "425d973f7cad7bfa987409b9e4a8659c14c6f0e0",
+          "version": "1.3.0"
+        }
+      },
+      {
+        "package": "HealthcheckProvider",
+        "repositoryURL": "https://github.com/ankurp/healthcheck-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "77b993b187479cae50388da2d69909cb00cacf98",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "JSON",
+        "repositoryURL": "https://github.com/vapor/json.git",
+        "state": {
+          "branch": null,
+          "revision": "6c7ce40d30b322d45cc49a8f1d742609d3228eb7",
+          "version": "2.2.2"
+        }
+      },
+      {
+        "package": "KittenCore",
+        "repositoryURL": "https://github.com/OpenKitten/KittenCore.git",
+        "state": {
+          "branch": null,
+          "revision": "ca1d4d3873a51dc24aba4f52df5a98d4401d2dcb",
+          "version": "0.2.3"
+        }
+      },
+      {
+        "package": "MongoDriver",
+        "repositoryURL": "https://github.com/vapor/mongo-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "a16f5d7d02a34cdbf1d7bbcbb4b5c28546642162",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "MongoKitten",
+        "repositoryURL": "https://github.com/OpenKitten/MongoKitten.git",
+        "state": {
+          "branch": null,
+          "revision": "611b2b396d558cbe82b97c599bbc748c06611741",
+          "version": "4.0.16"
+        }
+      },
+      {
+        "package": "MongoProvider",
+        "repositoryURL": "https://github.com/vapor-community/mongo-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "4e3ad71404d4b59699d37ec465ba3beaf35e2af8",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "Multipart",
+        "repositoryURL": "https://github.com/vapor/multipart.git",
+        "state": {
+          "branch": null,
+          "revision": "8e541b2e6fc64a3741eca2aa48ee2c3f23cbe17c",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "Node",
+        "repositoryURL": "https://github.com/vapor/node.git",
+        "state": {
+          "branch": null,
+          "revision": "c4ff32f07657aec849677e5aecb657bb6c85098d",
+          "version": "2.1.4"
+        }
+      },
+      {
+        "package": "Random",
+        "repositoryURL": "https://github.com/vapor/random.git",
+        "state": {
+          "branch": null,
+          "revision": "d7c4397d125caba795d14d956efacfe2a27a63d0",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Routing",
+        "repositoryURL": "https://github.com/vapor/routing.git",
+        "state": {
+          "branch": null,
+          "revision": "e950f3d56fb2eab6a64dafcfdb89ac98866045b8",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "SQLite",
+        "repositoryURL": "https://github.com/vapor/sqlite.git",
+        "state": {
+          "branch": null,
+          "revision": "9aceb6a0d7b1698a557647493bd78b030dad468b",
+          "version": "2.3.1"
+        }
+      },
+      {
+        "package": "Schrodinger",
+        "repositoryURL": "https://github.com/OpenKitten/Schrodinger.git",
+        "state": {
+          "branch": null,
+          "revision": "d7030fe0a4a6eeddc02044650a8b409a4f57365a",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Sockets",
+        "repositoryURL": "https://github.com/vapor/sockets.git",
+        "state": {
+          "branch": null,
+          "revision": "a77816695630a44d5d1393fc71eac37ac3d082ca",
+          "version": "2.2.2"
+        }
+      },
+      {
+        "package": "TLS",
+        "repositoryURL": "https://github.com/vapor/tls.git",
+        "state": {
+          "branch": null,
+          "revision": "02a47309249e69358aa3c28b5853897585d7a750",
+          "version": "2.1.2"
+        }
+      },
+      {
+        "package": "Vapor",
+        "repositoryURL": "https://github.com/vapor/vapor.git",
+        "state": {
+          "branch": null,
+          "revision": "9ea2ca524f05e97c599ece90da504ac3f7e26d77",
+          "version": "2.4.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

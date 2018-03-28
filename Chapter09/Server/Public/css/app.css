@@ -1,0 +1,78 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css';
+
+body {
+  background: #efefef;
+}
+
+.row.column.container-padded {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.row.column.container-padded h1 {
+  flex: 1 1 100%;
+  text-align: center;
+}
+
+.add-shopping-list {
+  align-self: center;
+  flex: 1 1 100%;
+  text-align: center;
+  margin: 30px;
+}
+
+.shopping-list-card {
+  flex: 1 0 320px;
+  margin: 10px;
+  background-color: #fefefe;
+  border-radius: 0;
+  max-width: 320px;
+}
+
+.shopping-list-card .delete-list,
+.shopping-list-card .delete-item {
+  font-family: sans-serif;
+  font-size: 1.4rem;
+  padding: 10px;
+  color: red;
+  cursor: pointer;
+}
+
+.shopping-list-card .card-divider {
+  border-bottom: 2px solid #cacaca;
+  background: inherit;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.shopping-list-card .card-divider h3 {
+  margin-bottom: 0;
+}
+
+.shopping-list-card ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.shopping-list-card ul li {
+  background-color: #efefef;
+  margin: 10px 0;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.shopping-list-card ul input[type="checkbox"] {
+  margin: 0;
+}
+
+.shopping-list-card ul label {
+  position: relative;
+  font-size: 1rem;
+  flex: 1;
+}

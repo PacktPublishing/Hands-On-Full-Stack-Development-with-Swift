@@ -1,0 +1,14 @@
+<div id="#(shopping_list.id)" class="shopping-list-card card">
+  <div class="card-divider">
+    <h3>#(shopping_list.name)</h3>
+    <button class="delete-list">X</button>
+  </div>
+  <div class="card-section">
+    <ul>
+      #loop(shopping_list.items, "item") {
+        #extend("item")
+      }
+    </ul>
+    <a id="#(id)" class="add-item">+ Add an Item</a>
+  </div>
+</div>

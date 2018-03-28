@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Welcome to Shopping List App</title>
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+
+<body>
+  <div class="row grid-x">
+    <form class="medium-6 columns" action="/register" method="post">
+      <h1 class="text-center">Sign Up</h1>
+      <input type="hidden" name="type" value="registerUser" />
+      <input type="email" name="email" placeholder="Email" id="linkInput">
+      <input type="text" name="name" placeholder="Name" id="linkInput">
+      <input type="password" name="password" placeholder="Password" id="linkInput">
+      <input class="button" type="submit" value="Sign Up">
+    </form>
+    <div class="columns">OR</div>
+    <form class="medium-6 columns" action="/login" method="post">
+      <h1 class="text-center">Login</h1>
+      <input type="hidden" name="type" value="loginUser" />
+      <input type="email" name="email" placeholder="Email" id="linkInput">
+      <input type="password" name="password" placeholder="Password" id="linkInput">
+      <input class="button" type="submit" value="Login">
+    </form>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+
+</html>

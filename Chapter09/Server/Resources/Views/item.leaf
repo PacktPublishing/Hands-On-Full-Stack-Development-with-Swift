@@ -1,0 +1,9 @@
+<li>
+  <input
+    id="#(item.id)"
+    type="checkbox"
+    #if(item.is_checked) { checked=true }
+  />
+  <label for="#(item.id)">#(item.name)</label>
+  <button class="delete-item">X</button>
+</li>

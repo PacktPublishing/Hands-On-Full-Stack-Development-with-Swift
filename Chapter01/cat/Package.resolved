@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FileReader",
+        "repositoryURL": "https://github.com/ankurp/FileReader",
+        "state": {
+          "branch": null,
+          "revision": "c979e6d5b3f3fd48e840931e39944e931a104663",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
