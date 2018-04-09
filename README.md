@@ -1,5 +1,6 @@
 # Hands-On Full-Stack Development with Swift
-This is the code repository for [Hands-On Full-Stack Development with Swift](https://www.packtpub.com/web-development/hands-full-stack-development-swift?utm_source=github&utm_medium=repository&utm_campaign=9781788625241), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Hands-On Full-Stack Development with Swift](https://www.packtpub.com/web-development/hands-full-stack-development-swift?utm_source=github&utm_medium=repository&utm_campaign=9781788625241), authored by [Ankur Patel](https://github.com/ankurp), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+
 ## About the Book
 Making Swift an open-source language enabled it to share code between a native app and a server. Building a scalable and secure server backend opens up new possibilities, such as building an entire application written in one language—Swift.
 
@@ -12,10 +13,9 @@ Once you get acquainted with creating applications, you'll build a tvOS version 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
-
 The code will look like the following:
-```
+
+```swift
 @IBAction func didSelectAdd(_ sender: UIBarButtonItem) {
   requestInput(title: "Shopping list name",
     message: "Enter name for the new shopping list:",
@@ -32,14 +32,15 @@ The code will look like the following:
 
 You should have basic knowledge of the following topics:
 
-Swift
-Xcode
-Storyboard and Autolayout
-HTML
-JavaScript
-CSS
-Terminal/Command Line Tools
-You should also use macOS as we will be using Xcode to build our native apps and our server app.
+* Swift
+* Xcode
+* Storyboard and Autolayout
+* HTML
+* JavaScript
+* CSS
+* Terminal/Command Line Tools
+
+You should also use `macOS` as we will be using Xcode to build our native apps and our server app.
 
 ## Related Products
 * [Hands-on Full Stack Development with Angular 5 and Firebase](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735)
@@ -47,3 +48,5 @@ You should also use macOS as we will be using Xcode to build our native apps and
 * [Mastering Swift 4 - Fourth Edition](https://www.packtpub.com/application-development/mastering-swift-4-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788477802)
 
 * [Reactive Programming with Swift 4](https://www.packtpub.com/application-development/reactive-programming-swift-4?utm_source=github&utm_medium=repository&utm_campaign=9781787120211)
+
+![Book Cover](https://www.packtpub.com/sites/default/files/B09073_0.png)
