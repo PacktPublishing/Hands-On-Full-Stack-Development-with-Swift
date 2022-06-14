@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B09073?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Full-Stack Development with Swift
 This is the code repository for [Hands-On Full-Stack Development with Swift](https://www.packtpub.com/web-development/hands-full-stack-development-swift?utm_source=github&utm_medium=repository&utm_campaign=9781788625241), authored by [Ankur Patel](https://github.com/ankurp), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
