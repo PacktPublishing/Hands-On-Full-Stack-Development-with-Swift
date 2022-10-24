@@ -50,3 +50,7 @@ You should also use `macOS` as we will be using Xcode to build our native apps a
 * [Reactive Programming with Swift 4](https://www.packtpub.com/application-development/reactive-programming-swift-4?utm_source=github&utm_medium=repository&utm_campaign=9781787120211)
 
 ![Book Cover](https://www.packtpub.com/sites/default/files/B09073_0.png)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788625241">https://packt.link/free-ebook/9781788625241 </a> </p>
